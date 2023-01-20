@@ -1,0 +1,20 @@
+p{
+    margin-left: 20px;
+    color: black;
+    display: flex;
+}
+a{
+    display: flex;
+    align-items: top center;
+    justify-content: space-between;
+    margin-left: 20px;
+    color: #212121;
+  margin-bottom:10px;
+}
+a:hover {
+    border-color: red;
+    color: red;
+    box-shadow: 0 0.5em 0.5em -0.4em red;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
